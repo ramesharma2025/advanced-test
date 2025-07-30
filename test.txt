@@ -10,4 +10,4 @@ lets merge more
 
 Adding feature-merge branch 
 
-lets add something , this is main branch content
+lets add something , this is conflict branch content
